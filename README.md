@@ -3,3 +3,4 @@
   2.Two Sum #2
   3 Jewels and Stones #771
   4.Fliping Image #832
+  5.Hamming Distance #461
