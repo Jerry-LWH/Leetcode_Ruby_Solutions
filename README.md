@@ -4,3 +4,4 @@
   3 Jewels and Stones #771
   4.Fliping Image #832
   5.Hamming Distance #461
+  6.Move Zeros #283
