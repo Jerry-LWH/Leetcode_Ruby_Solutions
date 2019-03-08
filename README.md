@@ -12,3 +12,4 @@
   11.Reverse Only Letters
   12.Reshape the Matrix
   13.Find The Difference
+  14.Next Greater Element
